@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Menu.unity
+    guid: f2ef87bdaa1f35849b8275ccfdb96d44
+  - enabled: 1
+    path: Assets/TimeSelection.unity
+    guid: df1dfa1d0e364374ba1d5505fc0c5b85
+  - enabled: 1
+    path: Assets/CountdownScene.unity
+    guid: a0f6e57a646bda4448a86fea68fcb1f2
+  - enabled: 1
+    path: Assets/Game.unity
+    guid: fa997ad268981e747b22522b575c0e2c
+  - enabled: 1
+    path: Assets/ThankYouScene.unity
+    guid: 6d0060f7ef7aa8c4bb0db4098dc59308
+  m_configObjects: {}
